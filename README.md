@@ -1,5 +1,13 @@
 # 🛡️ DFIR Toolkit
 
+
+**DFIR Toolkit** is a Windows-focused desktop application for **Digital Forensics and Incident Response (DFIR)** and **Live Triage**.
+
+It provides a graphical interface for collecting and reviewing multiple Windows forensic artifacts from one place, including user activity, Windows Registry, USB history, network activity, Wi-Fi information, browser history, PowerShell/CMD activity, Windows Event Logs, persistence mechanisms, and basic process threat triage.
+
+> **Project status:** DFIR Toolkit is an investigative triage tool and is not intended to replace full forensic disk imaging, memory acquisition, or specialized forensic suites.
+
+---
 ## 📸 Screenshots
 
 > A visual overview of the DFIR Toolkit interface and its main investigation modules.
@@ -8,6 +16,10 @@
 
 ![DFIR Toolkit Dashboard](screenshots/dashboard.png)
 
+
+### 📊 Excel Export
+
+![Excel Export](screenshots/program.png)
 ### 🌐 Network & Wi-Fi Forensics
 
 ![Network and Wi-Fi Forensics](screenshots/network.png)
@@ -32,18 +44,6 @@
 
 ![Threat Center](screenshots/threat-center.png)
 
-### 📊 Excel Export
-
-![Excel Export](screenshots/excel-export.png)
-
-
-**DFIR Toolkit** is a Windows-focused desktop application for **Digital Forensics and Incident Response (DFIR)** and **Live Triage**.
-
-It provides a graphical interface for collecting and reviewing multiple Windows forensic artifacts from one place, including user activity, Windows Registry, USB history, network activity, Wi-Fi information, browser history, PowerShell/CMD activity, Windows Event Logs, persistence mechanisms, and basic process threat triage.
-
-> **Project status:** DFIR Toolkit is an investigative triage tool and is not intended to replace full forensic disk imaging, memory acquisition, or specialized forensic suites.
-
----
 
 ## ✨ Features
 
